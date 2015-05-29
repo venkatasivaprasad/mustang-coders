@@ -1,0 +1,28 @@
+POS This poduct is not bad
+POS This product is better
+POS This is awsome product, great features
+POS this is best product i have seen in market
+POS this is phone is cheaper, worh for money
+POS excellent features compared to other products
+POS awesome product
+POS great price, i got 10% off on sale
+POS very cheap, i got 50% off on sale
+POS great value for your money, good feature
+
+NVE This Product is very nice till yesterday, but all of a suddent stopped working
+NVE this is not good, not worked as eaxpected
+NVE this is good but you get betters ones in the market
+NVE iphone is dead after 5days
+NVE battery is not charged fully
+NVE my eyes are getting stress with the screen
+NVE iam feeling headache after using 3 months
+NVE not all the features are useful
+NVE iphone screen got broken injust 2 months, no replacement
+NVE u go mad with this product, hate it
+NVE i don't know why people are making such products
+
+NUT good product, but you can get similar products in the market for the same price
+NUT not a great product, but nice to have
+NUT battery is ok, but some times it will not cahrge fully
+NUT clarity is very good, but screen size is very compact
+NUT good value for money, not great features compared to others

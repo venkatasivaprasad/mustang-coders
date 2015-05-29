@@ -1,0 +1,11 @@
+6553 3988 286
+POSITIVE +ve=9.000000 -ve=1.000000 Blazing fast internet speeds... I'm blown away 
+POSITIVE +ve=8.000000 -ve=2.000000 I have been talking to 5 agents so far, still no end to my pain... phone can't be dead for 10 days!!! 
+NEGATIVE +ve=4.000000 -ve=6.000000 Been a loyal customer for 3 years enjoying the service, the last three months has been horrible 
+POSITIVE +ve=9.000000 -ve=1.000000 Network quality is great but certainly not value for money.... I can get better deals elsewhere 
+POSITIVE +ve=10.000000 -ve=0.000000 Summer is finally here 
+POSITIVE +ve=10.000000 -ve=0.000000 Amazing picture quality... HD TV Rocks 
+NEUTRAL +ve=5.000000 -ve=5.000000 The entire ordering process was a breeze.... Loved it 
+POSITIVE +ve=7.000000 -ve=3.000000 Arrived in a timely fashion. Plugged it in and it works like a charm! No more annoying beeping from the old battery. After doing some homework, we found this price extremely affordable. 
+NEGATIVE +ve=4.000000 -ve=6.000000 I took the day off yesterday for the installation, whole family was around and the technician did not show up. How do I cancel the service now? 
+NEGATIVE +ve=4.000000 -ve=6.000000 It's been a crazy day... traffic is horrible 

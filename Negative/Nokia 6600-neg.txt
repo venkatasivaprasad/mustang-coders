@@ -1,0 +1,113 @@
+The only disappointment so far has been battery life.
+I thought it was kind of steeply priced at that time.
+The battery life of this phone is at most 2 days and at least one day at excessive use.
+Video recording is limited at just 9 seconds.
+I've had Nokia's for years, and while this one is packed with whiz bang features it is disappointing for its primary use - a phone.
+Before buying, I'd urge you to actually use one and not just handle it in the store.
+On the plus side it's packed with features, including BlueTooth that works fine - it's really a tiny computer that is also a phone... and that's the negative.
+When you dial a number, you'll need to check the screen to see that the number entered is correct.
+You'll do that because the keys are tightly packed in and your fingers will likely press two keys at once.
+It's as though Nokia has segregated 90% of the screen for fancy features rarely used and leave just 10% for the day to day use.
+I've have many Nokia's and while this is the best for features, it's the worst as a phone.
+Sorry, try something else or at least trying using one.
+You'll see what I mean ... if you have a magnifying glass.
+This phone is flashy and feels good in the hand, but it could not hold a connection to any of my bluetooth devices (headset, handheld, or desktop computer).
+who in the hell needs a frigging *VGA* camera on their CELLPHONE???
+What is that, .00000001 megapixel quality?
+Ha!
+Only thing I don't like about it is slow in changing apps, boot up, and sometime it has problem connect thru bluetooth.
+And, other else,  the camera is still VGA.
+The only problem is that occasionally the joystick does start to dig into your thumb while gaming.
+My biggest concern is that I have found Nokia phones lower quality construction to lead to lower prices, but they also don't last as long.
+OPERATION: It's like BMW's I-Drive - It does it's job, but has the most unintuitive, overly-layered interface.
+For example, the memory card is under the battery.
+Even the instruction booklet is out of order.
+No matter how accustomed to the phone you become, too much time is required to get to, open and close applications.
+On the other hand, one may leave many applications open at once, hide them and return to them just where they left off - similar to a Mac.
+Me likes.
+Don't use them, so I delete them for addtl space.
+In my humble opinion, games, along w/ 'flip phones' belong in the hands of teenagers.
+When you consider expandability (downloads via computer), the numerous features, two transmission programs and multiple storage devices, dependability - this is a phone that isn't easy to out-grow.
+BLUETOOTH DOES NOT WORK ON THIS PHONE.
+THE ADVERTISING IS A LIE.
+Though nearly a dozen different people at both T-Mobile and Nokia have told me otherwise, it is simply not possible to use this phone as a Bluetooth modem for the vast majority of PDAs and many other devices.
+While the two devices will pair, the phone will immediately drop the connection if any data is transferred.
+With the recent "bluejacking" vunerability, the Bluetooth overseers have created a new security system called Combination Key.
+This helps prevent people from sending short "obscene" messages to your phone.
+The older security method is called Unit Key.
+Most Bluetooth devices only support the older security system, Unit Key.
+This includes ALL Palm PDAs! Further, due to an unparalled design oversight, Nokia is the only device that supports Combination Key that is NOT BACKWARDS COMPATIBLE with the older devices that people actually own.
+Does all this sound technical?
+That's because it is, and the only way I learned it was by spending over an hour talking to T-Mobile's tier-3 technicians in South Africa (to learn that the problem wasn't about T-Mobile) and three hours of getting nowhere with Nokia support technicians reading endlessly from scripts, never deviating, until I started cursing and got a tier-2 tech.
+Only then did I learn the truth -- THIS PHONE DOES NOT WORK WITH PALM PDAS!
+So, after all this frustration of adding all of my newest contacts to the 6600, I asked the technician if it were possible to transfer the data from the 6600 to the 3650.
+He advised me to back up the 6600 to a newly formatted Nokia MMC card, and restore the data to the 3650.
+I followed the technician's directions to the letter while they were on the phone, and after I had done so, the phone restarted and displayed the message "Phone startup failed. Contact the retailer."
+I spent over an hour talking to a tier-2 technician who told me that their tier-1 technician should have known that it was not possible to backup the 6600 to the 3650 safely in any condition.
+I could not get the 3650 working to even factory defaults, even after trying every reset code they could muster.
+Nokia finally determined that my phone was in need of repair, but since it was out of warranty (it was made in May '03 and they would not take an eBay purchase as proof) they refused to fix the phone for less than $120!
+After over two hours of being placed on hold and persuasion, a supervisor finally agreed to fix the phone for free.
+I did a little research and discovered that the repair could be done by any basic cell-phone for $30.
+All that had to be done was restore the software to the phone, and all that took was a cable and some Nokia software.
+I still decided to send in the phone, since insured shipping was only $10.
+Two weeks later I mailed the phone in for repair.
+Two days after they received the phone, I received a letter in my mailbox stating that if I did not pay $120 for the repair of my phone, it would be returned unrepaired.
+I called Nokia to try to get it sorted out, and they stated that they had no recollection of ever promising to repair the phone for free.
+They stated that though it was a simple repair they would not do it for less than $120.
+I suggested that it didn't make sense for me to send in the phone for repair if I thought Nokia would charge me $120 to repair it since I could get it done locally for $30.
+This simple nuance was too much for Nokia, and they still refuse to acknoledge the fact that their technician could have broken the phone or repair the phone for free.
+The supervisor stated that it must have been third-party applications on the 6600 that caused the 3650 to break, and would not take the suggestion that his own tier-2 technicians stated that it was not possible to back up the 6600 to the 3650 without damaging the 3650, regardless of what was or was not on the 6600.
+In short - Nokia themselves don't know that this phone doesn't work with the Palm, and if you don't heed my advice you will spend hours with technicians around the globe reading from scripts, chiding you in broken english for not following their directions exactly.
+You will also hard-reset both your Palm and your Nokia to factory defaults in their lame attempts to get the script to work, though it will not.
+Ultimately you will learn just how bad Nokia is, and why their recent loss of market share is so utterly deserved.
+The photos in the address book are terribly scaled too; they look as though they were built out of legos.
+It's important that people know the following:  First, the interface is slow.
+Secondly, in addition to the lag each time you give a command, it's just not that easily useable on the go.
+The number buttons are crammed into a 3x4cm area, the fonts are small, the interface is too convoluted and frustrating, it's not that customisable as well.
+I can NOT find a carrier for this phone I like, end up just tossing it in my purse.
+This phone doesn't include Phone card calling.
+So you have to dial your phone card access number, PIN card, and choose "send touch tone" and find your contact from the address book.
+This process can be very annoying and unsafe when you are driving a stick shift on the highway.
+For phone card with PIN Free dialing setup, you are a little bit lucky.
+All you need to do is to choose your "phone card" contact and then "send touch tone" and choose the contact.
+This feature is very important to me as I make a lot of international calls.
+1-A cell phone is to make CALLS , in other words , quality of reception and mic/speaker are the most important , the 6600 has a relatively low volume speaker , you'd have to press it hard against your ear to hear anything the other person is saying , unless the surroundings were completely quiet .
+2- It is bulky and the small buttons on the sides are sloppy to use .
+4- My idea was that it was an all-in-one , and that theory -once again- proves wrong , this phone excells at nothing , less  than average in everything , if you seriously need any of the "other than phone" functionalities , you'll be disappointed .... if you have lots of money and bought it for the love of gadgets then fine .... but don't expect to get much done .
+5- If you already have a girlfriend and/or wife , you won't need Bluetooth lol .
+Basically the 6600 is a bundle of over-hyped features you don't and won't need (if you do get yourself a PDA or pocket PC) , none of them work as they should , and the basic phone functions and ergonomics are less than average .
+Among its weak points is the MMC slot location and a bit vague design.
+I find this feature on this phone useless, but, since I don't really need this function anyway, I don't really use it.
+Also, when I dial an "800" number like an airline, it will not allow me to use number keys to navigatee the prerecorded menu.
+This is a MUST when you need to get flight times, connect to reservations, etc.
+Finally, after about a week's use, the screen started to freeze on me.
+The only con I can think of is the lack of a mega-pixel camera.
+Motorola's phones are well engineered but have an user interface that reflects very poorly on what is otherwise an excellent engineering company.
+Its a real shame that T-Mo does not offer the newer Nokia models.
+I really regret signing up with T-Mobile, but I'm stuck with them for the next 6 months of the contract.
+Just don't get drawn into T-Mobile's catchy rebate.
+T-Mobile wasn't upfront about some of the terms to qualify for the rebate.
+I saw a few complaints on the load time of menus and I feel people are over-exaggerating the menu load time.
+Sometimes, various applications crash.
+Especially the bluetooth server... Meaning you have to restart the phone if you want bluetooth to work again.
+This is somewhat annoying, but from working with computers (espcially windows -- ugh...)
+I'm used to having to restart things.
+On average, I prolly restart the phone every two days.
+I use this phone exculsivly with a Jabra Freespeak 250.
+The only main drawback is the fact that the voice-dialing system is kinda picky.
+I also am loving T-Mobile (100 times better than ATT...
+It seems to be a much more user friendly company than Verizon and a thousand percent better than the horrible Quest Wireless.
+The Nokia 6600 is really just a glorified 3650: you know the 3650, those bulbous, formless, big phones a few unfortunate ATT customers are carrying around.
+For last one month my Rebate status showing me that my rebate is apporved and check is delivered but still I am waiting for Check.
+There is no way you can talk with customer care about this.
+Dont rely on T-Mobile rebates.
+Now the bad:  1) As usual, battery power not sufficient for daily usuage.
+The battery power discharges rapidly especially on using the web browser.
+5) Video recorder is of no use and one cannot record something useful in 10 seconds and it takes a while to send the same through the "Free picture and video messaging" offered by service provider.
+So my review should defintely give you an idea about this phone.
+namely, it wouldnt sync.
+but, i am quite unhappy with nokia at the moment.
+DOwnside is the size of the phone, it is BIG for today's standard.
+and the battery life is bad !
+the GPRS web access is sloooooooooooooow!
+DaveC

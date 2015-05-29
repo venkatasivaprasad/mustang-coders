@@ -1,0 +1,94 @@
+* lens visible in optical viewfinder . 
+( well thats only for old-school die-hard optical viewfinder fans ) use lcd instead which is brilliant and you can twist around too . 
+4 ) the viewfinder is borderuer lcd scoying . 
+b ) the lens cover is surely loose , i already accidently finger-printed the len a few times , and au lens tigt and cause potential damage . 
+i wish canon would work out some way for that issue . 
+the zooming lever is shaky , i hope it does not operate mechanically , otherwise you 'll feel uneasy . 
+i found that low light situations combined with any sort of action left this camera in the dust . 
+i wanted it to shoot concerts as well . 
+that meant even less light and just as much action . 
+sure , i adjusted the film speed to 400 . 
+the grain was terrible . 
+next time i set it at 100 and used the flash . 
+well flash photos are never great , and there was still a lot of noise . 
+the two limitations i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash . 
+as of this writing , technology has not solved the focus-lock lag time problem for point-and-shoot digicams and anyone who is satisfied with it simply has never used a modern film slr . 
+at least once youve got focus lock , the shutter release lag time for the g3 is about 1/10 of a second , which from what ive read , is better than just about anything else available . 
+relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produces harsh , flat images with ugly hot spots . 
+now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw images ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw images , as opposed to 7 ! 
+the canon software for raw images does not present you with a raw image at all , but the raw image after it has been processed by all the image-affecting settings in the camera . 
+i believe this is enabled by a second file that comes out of the camera that stores all this information . 
+maybe if you delete those files before you looked at them with the software , youd see the true , raw image that the camera actually produces . 
+i didnt wait to experiment . 
+instead , i bought the adobe photoshop camera raw plug-in . 
+the adobe camera raw plug-in shows once again that hardware is miles ahead of software . 
+what the g3 raw image software gives you is a fantasy world designed to please the uncritical . 
+what the photoshop plug-in gives you is reality , and then if you want fantasy , you can use photoshop to create it . 
+about the only legitimate criticsm from the online reviews is that fact that the lens really does obstruct the viewfinder . 
+this effect is increased when one buys and uses a telephoto doubler . 
+but who cares ? 
+i always shoot using the lcd panel . 
+the g3 had problems focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few seconds . 
+got way too many blurry pictures . 
+i have returned the g3 ( actually i tried two of them ) and have my g2 ! 
+the catch with the canon g3 camera , ( and perhaps all of digital cameras ) is that its unresponsiveness will cause you to miss precious shots . 
+prior to the purchase , none of my digital camera friends mentioned the delay between pressing the shutter button and the camera taking the picture . 
+no one told me , but i wanted to tell you . 
+this is not the same thing as a film camera . 
+and while it is cool and fun and has no film processing costs . 
+they have n't got all the bugs worked out just yet . 
+most of the time , my g3 is a well-behaved camera . 
+but once in a while , i run up against it 's major flaw : 
+it feels slow to focus , and unbearably slow to shoot . 
+i challenge anyone ( who is not in direct sun at the beach at noon ) to say it is fast and responsive . 
+and so i must ask , what are cameras for ? 
+what task do they perform ? 
+cameras capture moments . 
+they stop time . 
+because once the moment is gone , it is not coming back . 
+the dive , the kick , the blow-out-the-candles moments are , to me , the reason for cameras . 
+a 35mm film camera captures the moments you want , while these digital cameras ( my friends now inform me ) all seem to capture the moment immediately following the one you asked to capture . 
+not all the time , but often enough to be a real problem . 
+like i said , when the moment is gone , it is gone . 
+so buy the g3 . 
+buy it for fun , for lack of processing , because you want to use iphoto , or whatever . 
+unfortunately , this digital moment-capturing device called the g3 sometimes captures the moment after the one you wanted . 
+1 ) the included lens cap is very loose on the camera . 
+though the instruction booklet says that the camera should display " lens " when the cap and the camera are both on , the camera lens extends out and simply takes the lens cap off by itself . 
+i 'm concerned that with the easily removed lens cap , i may damage the lens . 
+very cheaply made . 
+2 ) the body construction - buttons , casing , etc , are too plastic . 
+the g2 was better in this respect . 
+it had a heavier and more sturdy casing . 
+despite these grieps , i still recommend the camera . 
+one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all . 
+as i said , this is the last digital camera i 'll buy , and if you are in the market one , my advice is to buy the best thing you can afford and keep it forever . 
+these things may get a lot better in the future , but from what i 've seen in the last few years , the technology for digital cameras is n't advancing at the pace of pc 's , phones and hard drives . 
+you can see the lens barrel in the view-finder . 
+( i knew this before hand , and it is not that bad ) there is no tiff format . 
+that would be a nice compromise between jpeg and raw . 
+to save a picture as raw , you have to have the display on , this seems like a waste of battery power . 
+it seems to me that after the focus and metering are complete there is quite a lag before the shutter ? 
+trips . 
+( again this is my first digital camera and maybe that is just how they all are . ) 
+for those of you using a mac in os x+ there is no twain utility to download your pics directly into photoshop . 
+one bad thing is that it comes with a pitiful 32mb compactflash card , and for most purposes , it is not enough . 
+however , it seems that this is the general rule for most digital cameras . 
+the included memory card is too small . 
+go out and get a 256meg card , it 's worth the expense . 
+it is made of plastic . 
+for those who are used to brass cameras that can be dropped , picking up a camera like the g3 is an unnerving experience . 
+this is by no means unique to this model , i 'm sure . 
+the strap is horrible and gets in the way of parts of the camera you need access to . 
+if you can afford this camera , you can afford to get a better strap elsewhere - a very minor quibble . 
+good points : 
+to address two previous somewhat negative reviews : ( 1 ) yes , the lens barrel does obstruct part of the lower left corner in the lens viewfinder ; however , the lcd viewfinder is rather stunning and i find myself rarely using the lens viewfinder . 
+( 2 ) there are , actually , several differences between the g2 and g3 , such as differences in continuous shooting , the optical lens , the control layout , playback zoom , image processing , and so on . 
+this camera has a major design flaw . 
+when you look through the viewfinder ( not the lcd ) the bottom left corner of the picture ( about 15 % ) is blocked by the lens . 
+i called the canon technical service center to see if i had a defective camera . 
+after about a minute of trying to tell me that most people use the lcd and not the view finder , they finally admitted , it was a design flaw in the camera . 
+the on-off button feels somewhat flimsy , and has an awkward , tiny little lock-out button that needs to be depressed to turn on the camera . 
+and the body / construction in general has quite a bit of plastic , a disappointment after the stainless steel heft of the s330 . 
+i bought a 512 mb card , which seems to hold about 400 photos at the highest resolution . 
+the only minor nits i have with the camera are it is fairly boxy looking , it needs a wrist strap instead of a neck strap , and it is a bit slow between shots . 

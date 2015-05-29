@@ -1,0 +1,114 @@
+ It was a very quick setup and installation, in fact the disc that it comes with pretty much makes sure you cant mess it up. 
+By no means do you have to be a tech junkie to be able to install it, just be able to put a CD in the computer and it tells you what to do. 
+ It works great, i am usually at the full 54 mbps, although every now and then that drops to around 36 mbps only because i am 2 floors below where the router is. 
+That only happens every so often, but its not that big of a drawback really, just a little slower than usual. 
+ This setup using the CD was about as easy as learning how to open a refrigerator door for the first time. 
+Shutting off what they t!
+ell you to shut off, and turning on what and when they tell you to turn things on, resulted in a delightful install. 
+Not even one glitch. 
+The CD determined my internet connection, determined my system configuration, asked me a few questions, and bingo I was up and running.  
+I bought the PC Card for laptops as well, and that was just as easy to install. 
+Within 10 minutes I was surfing the web from all over the house. 
+No Wires !  
+ Pertaining to the speed issue: I got 54Mps while I was in the same room. 
+When I went into the living room, it went to very good instead of excellent, and gave me 37Mbps. 
+Let's get a perspective here. 
+A standard modem works at 56K tops. 
+ This router works at 54Mbps that's megabyte not kilobyte. 
+Their are 1000 kilobytes in every megabyte. 
+So 54 Megabytes per second is about a thousand times faster than a standard modem. 
+ I hooked the Linksys wireless router up to a broadband connection which is running at a maximum of 700 plus Kilobytes on the download e!
+nd, and 100 to 150 upload speed. 
+I know I am getting specific, but the point I am making is that it does not matter what the connection speed you are running at any given moment, based on how close the base unit is to the PC card. 
+What is important is that your internet connection will never even approach the speed capabilities of this router, so don't hassle yourself with any concerns over varying connect speeds of the wireless network.  
+ Broadband hooked up to this wireless setup flies. 
+As soon as you click on a site, it appears on the screen.  
+Anyhow, just for reference, I am using a Dell Inspiron Notebook, hooked up to the broadband cable modem that was supplied by Comcast. 
+The operating system is Windows XP. 
+ Installation was as near automatic as can be. 
+They do supply instructions when using Windows ME, 98 etc, that includes one more step than XP. 
+All in all this is a 5 star piece of equipment. 
+Follow the directions exactly. 
+It is easy. 
+Hope this helps.     
+ New firmware update allows for automatic wireless network configuration. 
+ All you have to do is click one button on the router configuration window and the router automatically senses the devices and configures the network. 
+ You need to know absolutely nothing about setting up the network.  
+ The range is terrific, I am using this for my home and I was transferring at 50+mbs from my backyard.
+ I've since gotten the Linksys Modem (BEFCMU10) and stacked it with the WRT54G router and it works fantastic!!! 
+Be sure to call your ISP with the modem's MAC address to get online.  
+YOU WON'T get connected otherwise. 
+My ISP had me up and running within 5 minutes.  
+Also some ISP's give you a discount if you supply your own modem.
+  !
+Check it out.     
+ And the tech writers have made the installation process SO EASY for people lik my aunt to follow. 
+ In addition it is very easy to setup.  
+I w!
+  anted to rate the router higher than 1 star, due to its security, easy of use, etc.  
+However, since it is not being able to perform its core function adequately, it doesn't deserve any higher.  
+The reader can find a better product with the competition and at a lower cost.     
+ So far it all works fine with either cable or wireless connections.  
+My next project will be to try out sveasoft firmware to increase this unit capabilities and wireless range.     
+ The setup was very easy. 
+ Just follow the instructions carefully, it's all based on a CD that has everything you need to get you up and running in no time. 
+ The dual anteanna is a plus and the design is slick.   
+No more connection!
+The WRT54G offers excellent security features and much more (and easier) configuration menu that I didn't even need a manual to setup correctly.  
+ Unlike other reviewers, I have found the support to be responsive, almost no wait time on the phone, and relatively knowledgeable. 
+Granted, I am a professional technologist with years of experience.  
+ Overall, this router seems like a reasonably priced product th!
+ at works as well as can be expected for products in this space and the company backs it up with good support.     
+ It's easy and really works, with some incredible range.  
+ Compatability with other devices is excellent too; I've only found one 11b device that won't work with its mixed mode (and it won't work with *anyone's* mixed mode).
+Then this is the way to go. 
+ Setup in XP was instant and intuitive. 
+However, your PC cards should also be Linksys "g" rated, as interoperability has been a problem on some "b" cards. 
+ Linksys quality and tech support have been outstanding.     
+ I upgraded both my card and router and really had no problems with installation on my Sony VAIO laptop (XP operating system).  
+ The transmission speed is also quite good, with pages loading very quickly.  
+ I have had no problem either with backward compatiaibility, in that the "mixed mode" feature lets you both 54 and 11 Mb cards off the router.     
+ All of the wireless components that I bought were a breeze to set up as well.     
+ This product is by far the best Broadband Router on the market, I bought this to replace one of those Linksys Instant Wireless B routers, worked great for about a year. 
+In my opinion a year is a good service time for a device, I dont expect this router or any other to work great for more than a year. 
+ IF YOU NEED A WIRELESS ROUTER.... GET IT GET IT GET IT.... works really good....     
+ I just upgraded to the Linksys WRT54G Wireless-G router last month and I am very happy with the quality of the product.  
+ Works pretty well. 
+Haven't had any of the issues I've been reading in the other reviews. 
+ ying to point out they have experience, and so the reliability of the connection you get is among the best.  
+You typically find less horror stories detailing poor connections with this, and most Linksys models.  
+ The darn thing works as promised and it's amazingly cheap too. 
+Speed is identical to my hard wire desktop direct cable modem connected PC. 
+I bought one for my niece and will be installing it like a pro (shhhh, don't tell her I had help).  
+ If you want to work wirelessly, this router does just what you want it to do and my geek friends say that the security is as good as it gets right now.             
+ The setup was a breeze, I had some reservations about a wireless network (see my review for linksys wet11)but this item was on sale as well as the WET11 so I just had to splruge. 
+ To set up the xbox, wap, and ethernest bridge, with the encryption on was less then 30 mins. 
+Not once did I have to call tech support or the IT guy at my workplace. 
+Nor did I need any settings from my ISP. 
+ The setup software did everything. 
+This is my first foray in!
+to the wrld of wireless and it couldn't have gone better. 
+connection+3]
+ My Xbox connection seems as good as with a cable. 
+My Xbox is about 70ft and 3 walls away from the WRT54G. 
+ In a week of use i've never had to reboot the router. 
+There is also a Panasonic cordless phone (2.4 Ghz) between the wap and the ethernet bridge but it never causes a problem. 
+Great items !     
+ I guess the two antennae help with that besides making it look cooler. 
+ I am getting better speeds on all my web programs. 
+Pros.1.Speed  2. Signal Strength  3.Advanced Configuration Options
+ In fact, it supports the new WPA encryption standard, which is WAY better than WEP.  
+ Overall, it'll make my move that much easier knowing I don't have to worry about connectivity.     
+ No down time, great signal strength.  
+Worth every penny plus for those who are really into networking.  
+ There is an open-source firmware on the net which has tons of extra features.  
+ Setup is totally breeze and Linksys's web site is pretty easy to navigate.  
+ So the pretty solid router all around good for the money  here's the link to firmware updates http://www.sveasoft.com/forum6.html      
+ A call to customer support (got to a live person within a couple of minutes) helped me tweak a couple of the settings to streamline performance.  
+I have successfully used the additional Ethernet ports to add peripherals to my wireless networks.  
+ Speed is not a problem.      
+I bought this to replace my Linksys BEFW11S4 - 802.11b wireless router (I gave the old router to a friend - it worked great) because I thought it would be a nice upgrade in speed and performance - WRONG! 
+I can't notice any difference - except it used to drop my connection several times an hour! 
+ Second, the setup CD actually worked perfectly. 
+I was able to use t!
+he brower-based administrative screen with no problems. 

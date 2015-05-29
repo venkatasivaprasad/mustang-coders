@@ -1,0 +1,39 @@
+i found that low light situations combined with any sort of action left this camera in the dust . 
+i wanted it to shoot concerts as well . 
+that meant even less light and just as much action . 
+sure , i adjusted the film speed to 400 . 
+the grain was terrible . 
+next time i set it at 100 and used the flash . 
+well flash photos are never great , and there was still a lot of noise . 
+when i took outdoor photos with plenty of light and the objects were n't moving , the photos were awesome . 
+the camera was a marvel . 
+getting the printer to help output them was another tale . 
+overall i think that you need to consider what you wan't to do . 
+for simple point and shoot photography , consider a cheaper digital . 
+you do n't need the extra resolution or the cost . 
+then again a one time use camera may do just as well . 
+if you shoot in lots of light and desire high quality , this will be your camera . 
+the canon software for raw images does not present you with a raw image at all , but the raw image after it has been processed by all the image-affecting settings in the camera . 
+i believe this is enabled by a second file that comes out of the camera that stores all this information . 
+maybe if you delete those files before you looked at them with the software , youd see the true , raw image that the camera actually produces . 
+i didnt wait to experiment . 
+instead , i bought the adobe photoshop camera raw plug-in . 
+got way too many blurry pictures . 
+i have returned the g3 ( actually i tried two of them ) and have my g2 ! 
+( i knew this before hand , and it is not that bad ) there is no tiff format . 
+that would be a nice compromise between jpeg and raw . 
+to save a picture as raw , you have to have the display on , this seems like a waste of battery power . 
+it seems to me that after the focus and metering are complete there is quite a lag before the shutter ? 
+trips . 
+( again this is my first digital camera and maybe that is just how they all are . ) 
+for those of you using a mac in os x+ there is no twain utility to download your pics directly into photoshop . 
+it is very simple to import via iphoto 2 and then move them to photoshop . 
+i have not spent much time with the included software , so i don't know what to say about it other than it seems ok . 
+the strap is horrible and gets in the way of parts of the camera you need access to . 
+if you can afford this camera , you can afford to get a better strap elsewhere - a very minor quibble . 
+good points : 
+this camera has a major design flaw . 
+when you look through the viewfinder ( not the lcd ) the bottom left corner of the picture ( about 15 % ) is blocked by the lens . 
+i called the canon technical service center to see if i had a defective camera . 
+after about a minute of trying to tell me that most people use the lcd and not the view finder , they finally admitted , it was a design flaw in the camera . 
+everything else about the camera is great . 

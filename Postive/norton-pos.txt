@@ -1,0 +1,26 @@
+This is the fourth version of SystemWorks and the second version of Internet Security that I have used and it has always been a favorite.
+It has saved my system on more than one occasion, and makes disc clean up a snap.
+The best part of the firewall is the visual backtracking.
+An infected computer tried to launch an attack on mine and I was able to get a map and address of the server.
+ I've used the Corporate edition at work without any problems ever.
+Unfortunately, you can't buy the corporate edition over the counter.
+By the way, I use the Norton 2003 Corporate at work with absolutely no trouble.
+Norton pops up a window about the intrusions and gives me as much detail as possible about where the intrusion is coming from.
+Seems to work great.
+Sorry to hear about all the other folk's problems....makes me wonder why I'm NOT having any (I'm running Win XP as well).
+The product has worked perfectly for me on my XP.
+No more banner ads, pop-ups, and the reliable antivirus.
+I work on word, explorer, netscape, acrobat reader, photoshop at same time (meaning using a lot of memory), but still dont see a problem with computer (getting slow or crashing).
+I have XP with 256MB RAM, 40GB memory.
+On the contrary, I'm quite pleased with my upgrade.
+It works better and has more useful features than NIS 2003.
+PIII 1Ghz 512MB RDRAM Windows XP Pro 80GB HD  I was able to Uninstall NIS 2003 and Install NIS 2004 with no trouble.
+First, I turned off my cable modem.
+Then I disabled both Norton Antivirus and Norton Internet Security.
+I used "Add/Remove Programs" to unistall NIS 2003.
+In "Add/Remove, you must selecting the program's Change button.
+After that was complete, I deleted the Norton Antivirus and Norton Internet Security folders left in the "Programs" section of Windows XP.
+Next I de-fragged my hard drive.
+I did not use the Rnis.exe, since I have WinFax Pro on my system. I did not touch the Windows Registry, for the same reason.
+So far, the Anti-Spam feature seems to be very good.
+Their products have been great and have saved my bacon on numerous occasions.

@@ -1,0 +1,64 @@
+It just tells you to start disconnecting and attaching cables without any input as to whether your current setup includes a pre-existing router (mine does), without any clarity as to whether you should be running the wizard on a hard-wired PC or a wireless equipped PC. 
+After asking for a password (Is it asking me to set a password or am I supposed to know from page 20 of the manual that the factory set password is "admin"?) it refused to go past step 8. 
+These are just some of the pathetic examples.  
+They!
+provide no printed manual. 
+I had downloaded the 112 page manual from the Linksys Website. 
+Stupid me. 
+It turns out to be copyright 2002 and much inferior to the 2005 manual included on the CD. 
+But can you decide to access the CD manual once you have started the Wizard? 
+No, of course not. 
+You have to completely exit the Wizard and re-start the CD in order to find the "User Guide" tab which loads the manual.  
+ The box proudly displays "SecureEasySetup (TM)" "Wireless Made Simple" "One Touch Setup Button" "Easy Start" "Easy Security" "Easy Everyday"   Apparently Linksys/Cisco knows that ease of setup is crucial. 
+It just doesn't follow through in any consumer-tested way.  
+I don't know if Netgear, D-Link, etc are any better.  
+ I even downloaded the product's user manual - useless. 
+ The Linksys technical support site has nothing about configuring the router for use with a Mac. 
+It's like they want to pretend that Apple doesn't exist or something. 
+But eventually I found my way to live assistance through their site (thank GOODNESS), where someone was able to give me adequate instructions to configure the router so that I could at least use it. 
+ I say adequate because it was enough to get wireless working, but nowhere near enough instruction to do the proper configuration job that I could have done if so!
+meone would just give me some instructions in plain English.  
+The router comes with a TON of options for setup, but sadly enough, I had no idea what most of it meant. 
+ What this product really needs is better documentation for how to set up the router for DIFFERENT OPERATING SYSTEMS!
+! and step by step explanations for all the different setup options and their relevance. 
+I don't mind if the instructions are online instead of in the box, but please have some instructions *somewhere.
+ * I'm giving it 4 stars because the setup process was so miserable. 
+ The only other problem was that security for the wireless connection.  
+There was no obvious screen stating what should be done - the program simply said the router was secured.  
+If I did not know what to do, I'd have no idea how to connect wirelessly.  
+But knowing that the IP for my previous Linksys router was 192.162.1.1, I went there and found a drop down screen that had the information (the security key) I needed to connect my wireless laptop.  
+ I tried the CD setup program without any luck.  
+Then I tried the do-it-yourself method of following the step-by-step instructions.  
+Nope.  
+That didn't work either.    
+A five minute call to the tech support people was all it took to get the router up and running.  
+No hold time.  
+ Essentially, the CD included with the package is, for the most part, worthless.  
+I was told to connect my computer directly to the cable modem, then go to a Linksys webs!
+ite:  www.linksys.com/connect  I clicked on NetSet Assistant and let it do it's thing.  
+I followed the prompts to disconnect and reconnect Ethernet cables, and then rebooted.  
+Problem solved.  
+As far as WEP configuration... make your adjustments after you've set up the router using the default setup.  
+ After some research on the Net, I discovered that there is indeed a flaw with the current WRT54G design (WRT54G, version 3, which Amazon currently sells).  
+If you just use the router to surf the web, this router should serve your needs.  
+ It is not reliable.  
+ The installation software CD crashed repeatedly. 
+Thinking the CD was faulty, I went to the Linksys website, hoping to simply download the setup program, but it's not available. 
+ I then tried to set up the router through Linksys's browser interface, but as the only instructions available tell you to use the installation CD, I had little luck - I did manage to connect briefly, but the connection kept dropping, and with no idea of how to resolve THAT issue, I gave up.   
+I'm returning this, as I'm not willing to waste more time trying to contact tech support, particularly in light of the comments of other reviewers who have done so. 
+Very disappointing.     
+ I couldn't get the install wizard to work.  
+Knocked 1 star off for the install wizard - it wasted alot of time running it.     
+ I like the fact that it IS EASY to use with limited networking experience- the problem I have is that there are many useless features on the unit, and some wanted features, like a list of computers accessing my wireless, is not easily found on my router.   
+ I'd recommend this is you want to wireless network your laptop, but if you want to wirelessly network a couple desktops together you might want to wait until Linksys improves their desktop software/hardware.     
+ I had a lot of problems setting it up, since the software given along with it is buggy. 
+ The firmware has bugs too, so download and install the latest firmware from Linksys. 
+VERY IMP. 
+After installing the firmware hold the reset button at the back for 30 secs.  
+Also use Netstat on the Linksys website which helps in setting it up. 
+ The instant setup button in the front of the router messes up the network it is better to configure the router manually. 
+ ##Cons. 1. Configuration is not easy as it made out to be 2.Lousy Initial Software 3. Does not work with BitSpirit with UPnP, Besides that its an excellent choice , If you know your way around network configuration go for it.
+ Was a bit wary because the software is Windows only and I have an iMac. 
+But everything worked out for the best.  
+After pulling the Router out and connecting it, I hooked a Linksys WET11 Bridge onto the Tivo. 
+The tech support is worthless too.     

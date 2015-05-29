@@ -1,0 +1,36 @@
+Perhaps Semantic could work out the efficiency a little, but these reviews are highly exagerated... I would ask what else these people are running on their computers(?)
+I would ask what else these people are running on their computers(?)
+So, if you have a fairly fast computer (1 gig or better) with plenty of ram (512) and your not gaming online or running streaming video continually, you should be fine.
+This is pretty standard for an up to date computer anymore, so what's the fuss?
+I just got an older 866 Mhz system with 512 PC 133 RAM and it also runs fine on that.
+Both the antivirus and firewall are integrated into one piece of software and they update together.
+You won't need to update your firewall and antivirus separately or install two disks.
+The best part of the firewall is the visual backtracking.
+An infected computer tried to launch an attack on mine and I was able to get a map and address of the server.
+Some of the options are confusing, especially when the popup warnings occur, but I've had no problems with intrusions.
+Norton pops up a window about the intrusions and gives me as much detail as possible about where the intrusion is coming from.
+The popup blocker and anti-spam are bonuses.
+Seems to work great.
+Sorry to hear about all the other folk's problems....makes me wonder why I'm NOT having any (I'm running Win XP as well).
+And the firewall came with a wizard which made it effortless to configure it to my LAN.
+The product has worked perfectly for me on my XP.
+No more banner ads, pop-ups, and the reliable antivirus.
+I work on word, explorer, netscape, acrobat reader, photoshop at same time (meaning using a lot of memory), but still dont see a problem with computer (getting slow or crashing).
+I have XP with 256MB RAM, 40GB memory.
+ This is also the case with NIS 2004.
+I've seen many reviews praising 2003 and cursing 2004.
+I upgraded from NIS 2003, and the change in performance has not been noticeable.
+On the contrary, I'm quite pleased with my upgrade.
+It works better and has more useful features than NIS 2003.
+The installation, set-up, and operating interfaces are well organized and intuitive and the email spam component works well.
+PIII 1Ghz 512MB RDRAM Windows XP Pro 80GB HD  I was able to Uninstall NIS 2003 and Install NIS 2004 with no trouble.
+First, I turned off my cable modem.
+Then I disabled both Norton Antivirus and Norton Internet Security.
+I used "Add/Remove Programs" to unistall NIS 2003.
+In "Add/Remove, you must selecting the program's Change button.
+After that was complete, I deleted the Norton Antivirus and Norton Internet Security folders left in the "Programs" section of Windows XP.
+Next I de-fragged my hard drive.
+I did not use the Rnis.exe, since I have WinFax Pro on my system. I did not touch the Windows Registry, for the same reason.
+I installed, activated and registered NIS 2004 without issue.
+So far, the Anti-Spam feature seems to be very good.
+Their products have been great and have saved my bacon on numerous occasions.
